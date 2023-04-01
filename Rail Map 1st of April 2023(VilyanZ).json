@@ -320,4 +320,5 @@
 {"id":"89c89f35-0bdc-40c2-9a96-704da460b7a1","line":[[[-3772,-4322],[-3773,-4323]]],"color":"#8c8c8c"},
 {"id":"b25c2883-d752-4d46-92d8-98686f71e9bb","line":[[[-3925,-4510],[-3923,-4513],[-3799,-4513],[-3774,-4513]]],"color":"#41EADF"},
 {"id":"e1d32be4-50be-4b44-8d33-c7a15ede109c","line":null},
-{"id":"3d7754a6-fdb1-4dfc-8a0f-202841d74fa5","line":[[[-3523,8802],[-3534,7826],[-3425,7716],[-3425,7553]]],"color":"#8c100a"}],"presentations":[],"enabled_presentation":true,"id":"civmap:collection/user","info":{"version":"3.0.0-beta3"},"name":"My markings","source":"civmap:collection/file/My markings.json"}
+{"id":"3d7754a6-fdb1-4dfc-8a0f-202841d74fa5","line":[[[-3523,8802],[-3534,7826],[-3425,7716],[-3425,7553]]],"color":"#8c100a"}],"presentations":[],"enabled_presentation":true,"id":"vilyanz railmap
+","info":{"version":"3.0.0-beta3"},"name":"My markings","source":"civmap:collection/file/My markings.json"}
