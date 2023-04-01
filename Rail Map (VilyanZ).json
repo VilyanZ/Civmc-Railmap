@@ -300,4 +300,4 @@
 {"id":"78065b6a-a7eb-4a9b-abb4-95708b6c071f","line":[[[3303,-623],[3050,-623]]],"color":"#ff5e00"},
 {"id":"23806625-d3f0-4f64-9541-30f1ccd98278","line":[[[-3994,78],[-3993,64]]],"color":"#8c8c8c"},
 {"id":"946852b2-c753-44fa-93e2-97ef5df27d04","line":[[[-975,-3519],[-750,-3500]]],"color":"#41EADF"},
-{"id":"6b74daea-acbc-437b-addc-c08abecd04ef","line":[[[-3772,-4322],[-3773,-4323]]],"color":"#8c8c8c"}],"presentations":[],"enabled_presentation":true,"id":"civmap:collection/user","info":{"version":"3.0.0-beta3"},"name":"Rail Map (VilyanZ)","source":"civmap:collection/file/Rail Map (VilyanZ) (1).json"}
+{"id":"6b74daea-acbc-437b-addc-c08abecd04ef","line":[[[-3772,-4322],[-3773,-4323]]],"color":"#8c8c8c"}],"presentations":[],"enabled_presentation":true,"id":"vilyanz railmap","info":{"version":"3.0.0-beta3"},"name":"Rail Map (VilyanZ)","source":"civmap:collection/file/Rail Map (VilyanZ) (1).json"}
