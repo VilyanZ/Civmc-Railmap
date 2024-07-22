@@ -532,4 +532,4 @@
 {"name":"Southshire","id":"b7d9cda9-f8aa-435b-ad5e-c983c92766b6","x":-7118,"z":-5114,"color":"#41EADF"},
 {"id":"99042e42-3dc8-499c-8f60-c879fbcfd8f3","line":[[[3348,2226],[3504,2226],[3536,2198],[3596,2194],[3704,2256],[3792,2284],[3827,2291],[3839,2306],[3840,2724],[3930,2812],[4006,2868],[4116,2870],[4162,2930],[4276,2928],[4281,2933],[4281,2963]]],"color":"#3174e0"},
 {"name":"pirpyat","id":"f4aef020-18be-4e47-87b3-30f4819a9496","x":4136,"z":2895,"color":"#3174e0"},
-{"id":"b1dbedda-dc75-4766-8ade-6e90e43be633","line":[[[2681,9076],[2681,8772]]],"color":"#00a1de"}],"presentations":[],"enabled_presentation":true,"id":"vilyanz railmap","info":{"version":"3.0.0-beta3"},"name":"Rail map June 2024 (VilyanZ)","source":"civmap:collection/file/Rail Map (VilyanZ) (3).json"}
+{"id":"b1dbedda-dc75-4766-8ade-6e90e43be633","line":[[[2681,9076],[2681,8772]]],"color":"#00a1de"}],"presentations":[],"enabled_presentation":true,"id":"vilyanz railmap","info":{"version":"3.0.0-beta3"},"name":"Rail map July 2024 (VilyanZ)","source":"civmap:collection/file/Rail Map (VilyanZ) (3).json"}
